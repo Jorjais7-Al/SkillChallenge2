@@ -2,3 +2,9 @@ x = 5;
 if(x == 5){
    print("Hola mundo");
 }
+y = 4;
+if(x>y){
+  print("Adios mundo");
+}else{
+  print("Bienvenido de vuelta");
+} 
